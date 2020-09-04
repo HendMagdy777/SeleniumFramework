@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="6" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45959" started-at="2020-08-15T05:14:54Z" finished-at="2020-08-15T05:15:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45959" started-at="2020-08-15T05:14:54Z" finished-at="2020-08-15T05:15:40Z">
+      <class name="findindElements.FindElemetsByID">
+        <test-method status="PASS" signature="OpenUrl()[pri:0, instance:findindElements.FindElemetsByID@398dada8]" name="OpenUrl" is-config="true" duration-ms="44861" started-at="2020-08-15T05:14:54Z" finished-at="2020-08-15T05:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:findindElements.FindElemetsByID@398dada8]" name="CloseDriver" is-config="true" duration-ms="968" started-at="2020-08-15T05:15:39Z" finished-at="2020-08-15T05:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- findindElements.FindElemetsByID -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
